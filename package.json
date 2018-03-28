@@ -1,5 +1,5 @@
 {
-  "name": "redux-simple-starter",
+  "name": "react-blog",
   "version": "0.0.1",
   "description": "Simple Blog app made using react and redux",
   "main": "index.js",
@@ -19,7 +19,6 @@
     "babel-preset-react": "^6.1.18",
     "chai": "^3.5.0",
     "chai-jquery": "^2.0.0",
-    "jquery": "^2.2.1",
     "jsdom": "^8.1.0",
     "mocha": "^2.4.5",
     "react-addons-test-utils": "^0.14.7",
@@ -29,6 +28,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "babel-preset-stage-1": "^6.1.18",
+    "jquery": "^3.3.1",
     "lodash": "^3.10.1",
     "react": "^0.14.3",
     "react-dom": "^0.14.3",
@@ -36,7 +36,7 @@
     "react-router": "^2.0.1",
     "react-router-dom": "^4.0.0",
     "redux": "^3.0.4",
-    "redux-form": "^7.3.0",
+    "redux-form": "^6.6.3",
     "redux-promise": "^0.5.3"
   }
 }
