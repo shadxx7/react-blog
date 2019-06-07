@@ -1,12 +1,10 @@
-# React Blog Application
+# [Archived] React Blog Application
 
-## About
+Simple blogging app made using react and redux for learning purposes
 
-A simple Blogging app making the use of React, Redux.
+## Instructions to launch
 
-## Instruction to Launch
-
-* Install [Node](https://nodejs.org/en/) and [git](https://git-scm.com/downloads) for your computer(Alternatively you can use [yarn](https://yarnpkg.com/en/).
+* Install [Node](https://nodejs.org/en/) and [git](https://git-scm.com/downloads).
 
 * Enter the following commands in a terminal (bash/cmd/powershell etc.) :
 
@@ -16,7 +14,7 @@ cd react-blog
 npm install
 ```
 
-* This will clone the repo and install all the dependencies required to run the mockup
+* This will clone the repo and install all the dependencies required to run the mockup.
 
 ```bash
 npm start
